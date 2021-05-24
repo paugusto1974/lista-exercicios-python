@@ -1,5 +1,5 @@
 # lista-exercicios-python
-Resolução da lista de exercícios sugeridos para estudo e treinamento de programação encontrada em https://wiki.python.org.br/ListaDeExercicios, acesso em 23/05/2021.
+Resolução da lista de exercícios sugeridos para estudo e treinamento de programação encontrada em https://wiki.python.org.br/ListaDeExercicios; último acesso em 23/05/2021.
 
 A lista está classificada nos seguintes tópicos:
 1. EstruturaSequencial
